@@ -1,0 +1,15 @@
+{
+    "code": 200,
+    "message": "ok",
+    "obj": [{
+        "companyid": 340,
+        "endtime": "2018-07-25T14:55:24",
+        "id": 64468,
+        "mid": 436,
+        "name": "永远的436",
+        "note": null,
+        "num": 895056,
+        "part": "ST_润滑",
+        "starttime": "2018-07-25T14:55:18"
+    }]
+}

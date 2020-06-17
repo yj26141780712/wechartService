@@ -1,0 +1,53 @@
+{
+    "code": 200,
+    "message": "ok",
+    "obj": [{
+        "id": 24,
+        "pagename": "系统管理",
+        "parentId": 0,
+        "icon": "iconfont icon-ilink-settings",
+        "linktag": "",
+        "sort": 4,
+        "note": ""
+    }, {
+        "id": 25,
+        "pagename": "用户管理",
+        "parentId": 24,
+        "icon": "",
+        "linktag": "system/user",
+        "sort": 1,
+        "note": ""
+    }, {
+        "id": 29,
+        "pagename": "公司管理",
+        "parentId": 24,
+        "icon": "",
+        "linktag": "system/company",
+        "sort": 2,
+        "note": ""
+    }, {
+        "id": 30,
+        "pagename": "角色管理",
+        "parentId": 24,
+        "icon": "",
+        "linktag": "system/role",
+        "sort": 3,
+        "note": ""
+    }, {
+        "id": 31,
+        "pagename": "页面管理",
+        "parentId": 24,
+        "icon": "",
+        "linktag": "system/page",
+        "sort": 3,
+        "note": ""
+    }, {
+        "id": 32,
+        "pagename": "片区管理",
+        "parentId": 24,
+        "icon": "",
+        "linktag": "system/area",
+        "sort": 4,
+        "note": ""
+    }]
+}

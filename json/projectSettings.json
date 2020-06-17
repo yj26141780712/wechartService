@@ -1,0 +1,39 @@
+[{
+    "type": "tab",
+    "property": {
+        "text": "基础参数"
+    },
+    "index": 0,
+    "childrens": [{
+        "type": "table",
+        "property": {
+            "col": 1,
+            "row": 1
+        },
+        "index": 0,
+        "childrens": [{
+            "type": "tr",
+            "value": "",
+            "level": 2,
+            "childrens": [{
+                "type": "td",
+                "value": "",
+                "index": 0,
+                "childrens": [{
+                    "type": "text",
+                    "property": {
+                        "text": "射出起点"
+                    },
+                    "index": 0
+                }, {
+                    "type": "address",
+                    "property": {
+                        "text": "0.0",
+                        "address": "0x12345678"
+                    },
+                    "index": 1
+                }]
+            }]
+        }]
+    }]
+}]

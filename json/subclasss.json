@@ -1,0 +1,2147 @@
+{
+    "code": 200,
+    "message": "ok",
+    "obj": [{
+            "name": "输入点定义",
+            "subclassId": "2511",
+            "partName": "浮动缸",
+            "partId": "251",
+            "modelId": 1
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2514",
+            "partName": "浮动缸",
+            "partId": "251",
+            "modelId": 1
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2515",
+            "partName": "浮动缸",
+            "partId": "251",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "2516",
+            "partName": "浮动缸",
+            "partId": "251",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "2610",
+            "partName": "挡板",
+            "partId": "261",
+            "modelId": 1
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2614",
+            "partName": "挡板",
+            "partId": "261",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "2616",
+            "partName": "挡板",
+            "partId": "261",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "2710",
+            "partName": "滑模1",
+            "partId": "271",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "2711",
+            "partName": "滑模1",
+            "partId": "271",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "2712",
+            "partName": "滑模1",
+            "partId": "271",
+            "modelId": 1
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2714",
+            "partName": "滑模1",
+            "partId": "271",
+            "modelId": 1
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2715",
+            "partName": "滑模1",
+            "partId": "271",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "2716",
+            "partName": "滑模1",
+            "partId": "271",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "2720",
+            "partName": "滑模2",
+            "partId": "272",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "2721",
+            "partName": "滑模2",
+            "partId": "272",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "2722",
+            "partName": "滑模2",
+            "partId": "272",
+            "modelId": 1
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2724",
+            "partName": "滑模2",
+            "partId": "272",
+            "modelId": 1
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2725",
+            "partName": "滑模2",
+            "partId": "272",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "2726",
+            "partName": "滑模2",
+            "partId": "272",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "2810",
+            "partName": "定位1",
+            "partId": "281",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "2811",
+            "partName": "定位1",
+            "partId": "281",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "2812",
+            "partName": "定位1",
+            "partId": "281",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2813",
+            "partName": "定位1",
+            "partId": "281",
+            "modelId": 1
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2814",
+            "partName": "定位1",
+            "partId": "281",
+            "modelId": 1
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2815",
+            "partName": "定位1",
+            "partId": "281",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "2816",
+            "partName": "定位1",
+            "partId": "281",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "2820",
+            "partName": "定位2",
+            "partId": "282",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "2821",
+            "partName": "定位2",
+            "partId": "282",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "2822",
+            "partName": "定位2",
+            "partId": "282",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2823",
+            "partName": "定位2",
+            "partId": "282",
+            "modelId": 1
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2824",
+            "partName": "定位2",
+            "partId": "282",
+            "modelId": 1
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2825",
+            "partName": "定位2",
+            "partId": "282",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "2826",
+            "partName": "定位2",
+            "partId": "282",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "2910",
+            "partName": "安全门",
+            "partId": "291",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "2911",
+            "partName": "安全门",
+            "partId": "291",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "2912",
+            "partName": "安全门",
+            "partId": "291",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2913",
+            "partName": "安全门",
+            "partId": "291",
+            "modelId": 1
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2914",
+            "partName": "安全门",
+            "partId": "291",
+            "modelId": 1
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2915",
+            "partName": "安全门",
+            "partId": "291",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "2916",
+            "partName": "安全门",
+            "partId": "291",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "3010",
+            "partName": "润滑1",
+            "partId": "301",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "3011",
+            "partName": "润滑1",
+            "partId": "301",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "3012",
+            "partName": "润滑1",
+            "partId": "301",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "3016",
+            "partName": "润滑1",
+            "partId": "301",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "3020",
+            "partName": "润滑2",
+            "partId": "302",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "3021",
+            "partName": "润滑2",
+            "partId": "302",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "3022",
+            "partName": "润滑2",
+            "partId": "302",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "3026",
+            "partName": "润滑2",
+            "partId": "302",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "3030",
+            "partName": "润滑3",
+            "partId": "303",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "3031",
+            "partName": "润滑3",
+            "partId": "303",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "3032",
+            "partName": "润滑3",
+            "partId": "303",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "3036",
+            "partName": "润滑3",
+            "partId": "303",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "3110",
+            "partName": "机械手",
+            "partId": "311",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "3111",
+            "partName": "机械手",
+            "partId": "311",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "3113",
+            "partName": "机械手",
+            "partId": "311",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "3116",
+            "partName": "机械手",
+            "partId": "311",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "3211",
+            "partName": "电眼",
+            "partId": "321",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "3213",
+            "partName": "电眼",
+            "partId": "321",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "3216",
+            "partName": "电眼",
+            "partId": "321",
+            "modelId": 1
+        },
+        {
+            "name": "系统状态",
+            "subclassId": "3370",
+            "partName": "系统参数",
+            "partId": "337",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "0010",
+            "partName": "全局",
+            "partId": "001",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "0012",
+            "partName": "全局",
+            "partId": "001",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "0013",
+            "partName": "全局",
+            "partId": "001",
+            "modelId": 1
+        },
+        {
+            "name": "版本信息",
+            "subclassId": "0014",
+            "partName": "全局",
+            "partId": "001",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "0016",
+            "partName": "全局",
+            "partId": "001",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "0410",
+            "partName": "马达",
+            "partId": "041",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "0411",
+            "partName": "马达",
+            "partId": "041",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "0412",
+            "partName": "马达",
+            "partId": "041",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "0416",
+            "partName": "马达",
+            "partId": "041",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "0510",
+            "partName": "温度控制",
+            "partId": "051",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "0511",
+            "partName": "温度控制",
+            "partId": "051",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "0512",
+            "partName": "温度控制",
+            "partId": "051",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "0513",
+            "partName": "温度控制",
+            "partId": "051",
+            "modelId": 1
+        },
+        {
+            "name": "归零参数",
+            "subclassId": "0514",
+            "partName": "温度控制",
+            "partId": "051",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "0516",
+            "partName": "温度控制",
+            "partId": "051",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "0616",
+            "partName": "IO及重定义",
+            "partId": "061",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "0712",
+            "partName": "AD及电子尺",
+            "partId": "071",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "0716",
+            "partName": "AD及电子尺",
+            "partId": "071",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "0812",
+            "partName": "DA",
+            "partId": "081",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "0816",
+            "partName": "DA",
+            "partId": "081",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "0910",
+            "partName": "液压动力",
+            "partId": "091",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "0912",
+            "partName": "液压动力",
+            "partId": "091",
+            "modelId": 1
+        },
+        {
+            "name": "归零数据",
+            "subclassId": "0914",
+            "partName": "液压动力",
+            "partId": "091",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "0913",
+            "partName": "液压动力",
+            "partId": "091",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "0916",
+            "partName": "液压动力",
+            "partId": "091",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "0A10",
+            "partName": "液压伺服",
+            "partId": "0A1",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "0A11",
+            "partName": "液压伺服",
+            "partId": "0A1",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "0A12",
+            "partName": "液压伺服",
+            "partId": "0A1",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "0A16",
+            "partName": "液压伺服",
+            "partId": "0A1",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "0B10",
+            "partName": "报警",
+            "partId": "0B1",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "0B12",
+            "partName": "报警",
+            "partId": "0B1",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "0B16",
+            "partName": "报警",
+            "partId": "0B1",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "0C10",
+            "partName": "油温",
+            "partId": "0C1",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "0C11",
+            "partName": "油温",
+            "partId": "0C1",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "0C12",
+            "partName": "油温",
+            "partId": "0C1",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "0C16",
+            "partName": "油温",
+            "partId": "0C1",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "1010",
+            "partName": "射出",
+            "partId": "101",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "1011",
+            "partName": "射出",
+            "partId": "101",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "1012",
+            "partName": "射出",
+            "partId": "101",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "1013",
+            "partName": "射出",
+            "partId": "101",
+            "modelId": 1
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "1014",
+            "partName": "射出",
+            "partId": "101",
+            "modelId": 1
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "1015",
+            "partName": "射出",
+            "partId": "101",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "1016",
+            "partName": "射出",
+            "partId": "101",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "1110",
+            "partName": "喷嘴或座台",
+            "partId": "111",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "1111",
+            "partName": "喷嘴或座台",
+            "partId": "111",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "1112",
+            "partName": "喷嘴或座台",
+            "partId": "111",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "1113",
+            "partName": "喷嘴或座台",
+            "partId": "111",
+            "modelId": 1
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "1114",
+            "partName": "喷嘴或座台",
+            "partId": "111",
+            "modelId": 1
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "1115",
+            "partName": "喷嘴或座台",
+            "partId": "111",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "1116",
+            "partName": "喷嘴或座台",
+            "partId": "111",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "1210",
+            "partName": "储能部件",
+            "partId": "121",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "1211",
+            "partName": "储能部件",
+            "partId": "121",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "1212",
+            "partName": "储能部件",
+            "partId": "121",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "1213",
+            "partName": "储能部件",
+            "partId": "121",
+            "modelId": 1
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "1214",
+            "partName": "储能部件",
+            "partId": "121",
+            "modelId": 1
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "1215",
+            "partName": "储能部件",
+            "partId": "121",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "1216",
+            "partName": "储能部件",
+            "partId": "121",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "1310",
+            "partName": "下压缸",
+            "partId": "131",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "1311",
+            "partName": "下压缸",
+            "partId": "131",
+            "modelId": 1
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "1314",
+            "partName": "下压缸",
+            "partId": "131",
+            "modelId": 1
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "1315",
+            "partName": "下压缸",
+            "partId": "131",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "1316",
+            "partName": "下压缸",
+            "partId": "131",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "2010",
+            "partName": "开关模",
+            "partId": "201",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "2011",
+            "partName": "开关模",
+            "partId": "201",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "2012",
+            "partName": "开关模",
+            "partId": "201",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2013",
+            "partName": "开关模",
+            "partId": "201",
+            "modelId": 1
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2014",
+            "partName": "开关模",
+            "partId": "201",
+            "modelId": 1
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2015",
+            "partName": "开关模",
+            "partId": "201",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "2016",
+            "partName": "开关模",
+            "partId": "201",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "2110",
+            "partName": "脱模1",
+            "partId": "211",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "2111",
+            "partName": "脱模1",
+            "partId": "211",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "2112",
+            "partName": "脱模1",
+            "partId": "211",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2113",
+            "partName": "脱模1",
+            "partId": "211",
+            "modelId": 1
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2114",
+            "partName": "脱模1",
+            "partId": "211",
+            "modelId": 1
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2115",
+            "partName": "脱模1",
+            "partId": "211",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "2116",
+            "partName": "脱模1",
+            "partId": "211",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "2120",
+            "partName": "脱模2",
+            "partId": "212",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "2121",
+            "partName": "脱模2",
+            "partId": "212",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "2122",
+            "partName": "脱模2",
+            "partId": "212",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2123",
+            "partName": "脱模2",
+            "partId": "212",
+            "modelId": 1
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2124",
+            "partName": "脱模2",
+            "partId": "212",
+            "modelId": 1
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2125",
+            "partName": "脱模2",
+            "partId": "212",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "2126",
+            "partName": "脱模2",
+            "partId": "212",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "2210",
+            "partName": "中子A",
+            "partId": "221",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "2211",
+            "partName": "中子A",
+            "partId": "221",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "2212",
+            "partName": "中子A",
+            "partId": "221",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2213",
+            "partName": "中子A",
+            "partId": "221",
+            "modelId": 1
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2214",
+            "partName": "中子A",
+            "partId": "221",
+            "modelId": 1
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2215",
+            "partName": "中子A",
+            "partId": "221",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "2216",
+            "partName": "中子A",
+            "partId": "221",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "2220",
+            "partName": "中子B",
+            "partId": "222",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "2221",
+            "partName": "中子B",
+            "partId": "222",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "2222",
+            "partName": "中子B",
+            "partId": "222",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2223",
+            "partName": "中子B",
+            "partId": "222",
+            "modelId": 1
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2224",
+            "partName": "中子B",
+            "partId": "222",
+            "modelId": 1
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2225",
+            "partName": "中子B",
+            "partId": "222",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "2226",
+            "partName": "中子B",
+            "partId": "222",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "2230",
+            "partName": "中子C",
+            "partId": "223",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "2231",
+            "partName": "中子C",
+            "partId": "223",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "2232",
+            "partName": "中子C",
+            "partId": "223",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2233",
+            "partName": "中子C",
+            "partId": "223",
+            "modelId": 1
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2234",
+            "partName": "中子C",
+            "partId": "223",
+            "modelId": 1
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2235",
+            "partName": "中子C",
+            "partId": "223",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "2236",
+            "partName": "中子C",
+            "partId": "223",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "2240",
+            "partName": "中子D",
+            "partId": "224",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "2241",
+            "partName": "中子D",
+            "partId": "224",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "2242",
+            "partName": "中子D",
+            "partId": "224",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2243",
+            "partName": "中子D",
+            "partId": "224",
+            "modelId": 1
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2244",
+            "partName": "中子D",
+            "partId": "224",
+            "modelId": 1
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2245",
+            "partName": "中子D",
+            "partId": "224",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "2246",
+            "partName": "中子D",
+            "partId": "224",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "2250",
+            "partName": "中子E",
+            "partId": "225",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "2251",
+            "partName": "中子E",
+            "partId": "225",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "2252",
+            "partName": "中子E",
+            "partId": "225",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2253",
+            "partName": "中子E",
+            "partId": "225",
+            "modelId": 1
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2254",
+            "partName": "中子E",
+            "partId": "225",
+            "modelId": 1
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2255",
+            "partName": "中子E",
+            "partId": "225",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "2256",
+            "partName": "中子E",
+            "partId": "225",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "2260",
+            "partName": "中子F",
+            "partId": "226",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "2261",
+            "partName": "中子F",
+            "partId": "226",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "2262",
+            "partName": "中子F",
+            "partId": "226",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2263",
+            "partName": "中子F",
+            "partId": "226",
+            "modelId": 1
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2264",
+            "partName": "中子F",
+            "partId": "226",
+            "modelId": 1
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2265",
+            "partName": "中子F",
+            "partId": "226",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "2266",
+            "partName": "中子F",
+            "partId": "226",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "2310",
+            "partName": "吹气1",
+            "partId": "231",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2313",
+            "partName": "吹气1",
+            "partId": "231",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "2316",
+            "partName": "吹气1",
+            "partId": "231",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "2320",
+            "partName": "吹气2",
+            "partId": "232",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2323",
+            "partName": "吹气2",
+            "partId": "232",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "2326",
+            "partName": "吹气2",
+            "partId": "232",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "2330",
+            "partName": "吹气3",
+            "partId": "233",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2333",
+            "partName": "吹气3",
+            "partId": "233",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "2336",
+            "partName": "吹气3",
+            "partId": "233",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "2340",
+            "partName": "吹气4",
+            "partId": "234",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2343",
+            "partName": "吹气4",
+            "partId": "234",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "2346",
+            "partName": "吹气4",
+            "partId": "234",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "2350",
+            "partName": "吹气5",
+            "partId": "235",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2353",
+            "partName": "吹气5",
+            "partId": "235",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "2356",
+            "partName": "吹气5",
+            "partId": "235",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "2360",
+            "partName": "吹气6",
+            "partId": "236",
+            "modelId": 1
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2363",
+            "partName": "吹气6",
+            "partId": "236",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "2366",
+            "partName": "吹气6",
+            "partId": "236",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "2410",
+            "partName": "调模",
+            "partId": "241",
+            "modelId": 1
+        },
+        {
+            "name": "输入点定义",
+            "subclassId": "2411",
+            "partName": "调模",
+            "partId": "241",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "2412",
+            "partName": "调模",
+            "partId": "241",
+            "modelId": 1
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2414",
+            "partName": "调模",
+            "partId": "241",
+            "modelId": 1
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2415",
+            "partName": "调模",
+            "partId": "241",
+            "modelId": 1
+        },
+        {
+            "name": "状态数据",
+            "subclassId": "2416",
+            "partName": "调模",
+            "partId": "241",
+            "modelId": 1
+        },
+        {
+            "name": "输出点定义",
+            "subclassId": "2510",
+            "partName": "浮动缸",
+            "partId": "251",
+            "modelId": 1
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "0012",
+            "partName": "机器",
+            "partId": "001",
+            "modelId": 2
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "0013",
+            "partName": "机器",
+            "partId": "001",
+            "modelId": 2
+        },
+        {
+            "name": "版本信息",
+            "subclassId": "0014",
+            "partName": "机器",
+            "partId": "001",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "0016",
+            "partName": "机器",
+            "partId": "001",
+            "modelId": 2
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "0412",
+            "partName": "马达",
+            "partId": "041",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "0416",
+            "partName": "马达",
+            "partId": "041",
+            "modelId": 2
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "0512",
+            "partName": "温度",
+            "partId": "051",
+            "modelId": 2
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "0513",
+            "partName": "温度",
+            "partId": "051",
+            "modelId": 2
+        },
+        {
+            "name": "归零参数",
+            "subclassId": "0514",
+            "partName": "温度",
+            "partId": "051",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "0516",
+            "partName": "温度",
+            "partId": "051",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "0616",
+            "partName": "io",
+            "partId": "061",
+            "modelId": 2
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "0712",
+            "partName": "电子尺",
+            "partId": "071",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "0716",
+            "partName": "电子尺",
+            "partId": "071",
+            "modelId": 2
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "0812",
+            "partName": "DA部件",
+            "partId": "081",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "0816",
+            "partName": "DA部件",
+            "partId": "081",
+            "modelId": 2
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "0912",
+            "partName": "液压动力",
+            "partId": "091",
+            "modelId": 2
+        },
+        {
+            "name": "归零参数",
+            "subclassId": "0914",
+            "partName": "液压动力",
+            "partId": "091",
+            "modelId": 2
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "0913",
+            "partName": "液压动力",
+            "partId": "091",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "0916",
+            "partName": "液压动力",
+            "partId": "091",
+            "modelId": 2
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "0A12",
+            "partName": "伺服",
+            "partId": "0A1",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "0A16",
+            "partName": "伺服",
+            "partId": "0A1",
+            "modelId": 2
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "0B12",
+            "partName": "报警",
+            "partId": "0B1",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "0B16",
+            "partName": "报警",
+            "partId": "0B1",
+            "modelId": 2
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "0C12",
+            "partName": "油温",
+            "partId": "0C1",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "0C16",
+            "partName": "油温",
+            "partId": "0C1",
+            "modelId": 2
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "1012",
+            "partName": "注射",
+            "partId": "101",
+            "modelId": 2
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "1013",
+            "partName": "注射",
+            "partId": "101",
+            "modelId": 2
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "1014",
+            "partName": "注射",
+            "partId": "101",
+            "modelId": 2
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "1015",
+            "partName": "注射",
+            "partId": "101",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "1016",
+            "partName": "注射",
+            "partId": "101",
+            "modelId": 2
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "1112",
+            "partName": "座台",
+            "partId": "111",
+            "modelId": 2
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "1113",
+            "partName": "座台",
+            "partId": "111",
+            "modelId": 2
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "1114",
+            "partName": "座台",
+            "partId": "111",
+            "modelId": 2
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "1115",
+            "partName": "座台",
+            "partId": "111",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "1116",
+            "partName": "座台",
+            "partId": "111",
+            "modelId": 2
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "2012",
+            "partName": "开关模",
+            "partId": "201",
+            "modelId": 2
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2013",
+            "partName": "开关模",
+            "partId": "201",
+            "modelId": 2
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2014",
+            "partName": "开关模",
+            "partId": "201",
+            "modelId": 2
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2015",
+            "partName": "开关模",
+            "partId": "201",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "2016",
+            "partName": "开关模",
+            "partId": "201",
+            "modelId": 2
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "2112",
+            "partName": "托模",
+            "partId": "211",
+            "modelId": 2
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2113",
+            "partName": "托模",
+            "partId": "211",
+            "modelId": 2
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2114",
+            "partName": "托模",
+            "partId": "211",
+            "modelId": 2
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2115",
+            "partName": "托模",
+            "partId": "211",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "2116",
+            "partName": "托模",
+            "partId": "211",
+            "modelId": 2
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "2212",
+            "partName": "中子A",
+            "partId": "221",
+            "modelId": 2
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2213",
+            "partName": "中子A",
+            "partId": "221",
+            "modelId": 2
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2214",
+            "partName": "中子A",
+            "partId": "221",
+            "modelId": 2
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2215",
+            "partName": "中子A",
+            "partId": "221",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "2216",
+            "partName": "中子A",
+            "partId": "221",
+            "modelId": 2
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "2222",
+            "partName": "中子B",
+            "partId": "222",
+            "modelId": 2
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2223",
+            "partName": "中子B",
+            "partId": "222",
+            "modelId": 2
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2224",
+            "partName": "中子B",
+            "partId": "222",
+            "modelId": 2
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2225",
+            "partName": "中子B",
+            "partId": "222",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "2226",
+            "partName": "中子B",
+            "partId": "222",
+            "modelId": 2
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "2232",
+            "partName": "中子C",
+            "partId": "223",
+            "modelId": 2
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2233",
+            "partName": "中子C",
+            "partId": "223",
+            "modelId": 2
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2234",
+            "partName": "中子C",
+            "partId": "223",
+            "modelId": 2
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2235",
+            "partName": "中子C",
+            "partId": "223",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "2236",
+            "partName": "中子C",
+            "partId": "223",
+            "modelId": 2
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "2242",
+            "partName": "中子D",
+            "partId": "224",
+            "modelId": 2
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2243",
+            "partName": "中子D",
+            "partId": "224",
+            "modelId": 2
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2244",
+            "partName": "中子D",
+            "partId": "224",
+            "modelId": 2
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2245",
+            "partName": "中子D",
+            "partId": "224",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "2246",
+            "partName": "中子D",
+            "partId": "224",
+            "modelId": 2
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2313",
+            "partName": "吹气1",
+            "partId": "231",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "2316",
+            "partName": "吹气1",
+            "partId": "231",
+            "modelId": 2
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2323",
+            "partName": "吹气2",
+            "partId": "232",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "2326",
+            "partName": "吹气2",
+            "partId": "232",
+            "modelId": 2
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2333",
+            "partName": "吹气3",
+            "partId": "233",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "2336",
+            "partName": "吹气3",
+            "partId": "233",
+            "modelId": 2
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2343",
+            "partName": "吹气4",
+            "partId": "234",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "2346",
+            "partName": "吹气4",
+            "partId": "234",
+            "modelId": 2
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2353",
+            "partName": "吹气5",
+            "partId": "235",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "2356",
+            "partName": "吹气5",
+            "partId": "235",
+            "modelId": 2
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2363",
+            "partName": "吹气6",
+            "partId": "236",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "2366",
+            "partName": "吹气6",
+            "partId": "236",
+            "modelId": 2
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "2412",
+            "partName": "调模",
+            "partId": "241",
+            "modelId": 2
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2414",
+            "partName": "调模",
+            "partId": "241",
+            "modelId": 2
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2415",
+            "partName": "调模",
+            "partId": "241",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "2416",
+            "partName": "调模",
+            "partId": "241",
+            "modelId": 2
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "2912",
+            "partName": "安全门",
+            "partId": "291",
+            "modelId": 2
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "2913",
+            "partName": "安全门",
+            "partId": "291",
+            "modelId": 2
+        },
+        {
+            "name": "动作参数",
+            "subclassId": "2914",
+            "partName": "安全门",
+            "partId": "291",
+            "modelId": 2
+        },
+        {
+            "name": "液压参数",
+            "subclassId": "2915",
+            "partName": "安全门",
+            "partId": "291",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "2916",
+            "partName": "安全门",
+            "partId": "291",
+            "modelId": 2
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "3012",
+            "partName": "润滑",
+            "partId": "301",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "3016",
+            "partName": "润滑",
+            "partId": "301",
+            "modelId": 2
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "3113",
+            "partName": "机械手",
+            "partId": "311",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "3116",
+            "partName": "机械手",
+            "partId": "311",
+            "modelId": 2
+        },
+        {
+            "name": "机器参数",
+            "subclassId": "3212",
+            "partName": "电眼",
+            "partId": "321",
+            "modelId": 2
+        },
+        {
+            "name": "模具参数",
+            "subclassId": "3213",
+            "partName": "电眼",
+            "partId": "321",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "3216",
+            "partName": "电眼",
+            "partId": "321",
+            "modelId": 2
+        },
+        {
+            "name": "系统状态",
+            "subclassId": "3370",
+            "partName": "系统参数",
+            "partId": "337",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "3026",
+            "partName": "润滑2",
+            "partId": "302",
+            "modelId": 2
+        },
+        {
+            "name": "状态",
+            "subclassId": "3036",
+            "partName": "润滑3",
+            "partId": "303",
+            "modelId": 2
+        }
+    ]
+}

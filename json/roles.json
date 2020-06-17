@@ -1,0 +1,26 @@
+{
+    "code": 200,
+    "message": "ok",
+    "obj": [{
+        "id": 1,
+        "roleName": "管理员1",
+        "type": 0,
+        "companyId": 200,
+        "companyName": "宁波伊士通",
+        "note": "备注"
+    }, {
+        "id": 2,
+        "roleName": "管理员2",
+        "type": 0,
+        "companyId": 200,
+        "companyName": "宁波伊士通",
+        "note": "备注"
+    }, {
+        "id": 3,
+        "roleName": "管理员3",
+        "type": 0,
+        "companyId": 200,
+        "companyName": "宁波伊士通",
+        "note": "备注"
+    }]
+}

@@ -1,0 +1,16 @@
+{
+    "code": 200,
+    "message": "ok",
+    "obj": [{
+        "id": 1,
+        "sn": "BH-00001",
+        "name": "辅机一号",
+        "workState": "在线",
+        "deviceType": "AB-001",
+        "monitorId": 123,
+        "cpersonnel": "周旭阳",
+        "ddate": "2018-02-04",
+        "modelName": "辅机",
+        "modelId": "1"
+    }]
+}

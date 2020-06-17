@@ -1,0 +1,181 @@
+﻿{
+    "code": 200,
+    "message": "ok",
+    "obj": [{
+            "id": 1,
+            "name": "机器",
+            "company_id": null,
+            "partCategoryId": "00",
+            "modelId": 1,
+            "note": null
+        },
+        {
+            "id": 2,
+            "name": "马达",
+            "company_id": null,
+            "partCategoryId": "04",
+            "modelId": 1,
+            "note": null
+        },
+        {
+            "id": 3,
+            "name": "温度",
+            "company_id": null,
+            "partCategoryId": "05",
+            "modelId": 1,
+            "note": null
+        },
+        {
+            "id": 4,
+            "name": "io",
+            "company_id": null,
+            "partCategoryId": "06",
+            "modelId": 1,
+            "note": null
+        },
+        {
+            "id": 5,
+            "name": "电子尺",
+            "company_id": null,
+            "partCategoryId": "07",
+            "modelId": 1,
+            "note": null
+        },
+        {
+            "id": 6,
+            "name": "DA部件",
+            "company_id": null,
+            "partCategoryId": "08",
+            "modelId": 1,
+            "note": null
+        },
+        {
+            "id": 7,
+            "name": "液压动力",
+            "company_id": null,
+            "partCategoryId": "09",
+            "modelId": 1,
+            "note": null
+        },
+        {
+            "id": 8,
+            "name": "伺服",
+            "company_id": null,
+            "partCategoryId": "0A",
+            "modelId": 1,
+            "note": null
+        },
+        {
+            "id": 9,
+            "name": "报警",
+            "company_id": null,
+            "partCategoryId": "0B",
+            "modelId": 1,
+            "note": null
+        },
+        {
+            "id": 10,
+            "name": "油温",
+            "company_id": null,
+            "partCategoryId": "0C",
+            "modelId": 1,
+            "note": null
+        },
+        {
+            "id": 11,
+            "name": "注射",
+            "company_id": null,
+            "partCategoryId": "10",
+            "modelId": 1,
+            "note": null
+        },
+        {
+            "id": 12,
+            "name": "座台",
+            "company_id": null,
+            "partCategoryId": "11",
+            "modelId": 1,
+            "note": null
+        },
+        {
+            "id": 13,
+            "name": "开关模",
+            "company_id": null,
+            "partCategoryId": "20",
+            "modelId": 1,
+            "note": null
+        },
+        {
+            "id": 14,
+            "name": "托模",
+            "company_id": null,
+            "partCategoryId": "21",
+            "modelId": 1,
+            "note": null
+        },
+        {
+            "id": 15,
+            "name": "中子",
+            "company_id": null,
+            "partCategoryId": "22",
+            "modelId": 1,
+            "note": null
+        },
+        {
+            "id": 16,
+            "name": "吹气",
+            "company_id": null,
+            "partCategoryId": "23",
+            "modelId": 1,
+            "note": null
+        },
+        {
+            "id": 17,
+            "name": "调模",
+            "company_id": null,
+            "partCategoryId": "24",
+            "modelId": 1,
+            "note": null
+        },
+        {
+            "id": 18,
+            "name": "安全门",
+            "company_id": null,
+            "partCategoryId": "29",
+            "modelId": 1,
+            "note": null
+        },
+        {
+            "id": 19,
+            "name": "润滑",
+            "company_id": null,
+            "partCategoryId": "30",
+            "modelId": 1,
+            "note": null
+        },
+        {
+            "id": 20,
+            "name": "机械手",
+            "company_id": null,
+            "partCategoryId": "31",
+            "modelId": 1,
+            "note": null
+        },
+        {
+            "id": 21,
+            "name": "电眼",
+            "company_id": null,
+            "partCategoryId": "32",
+            "modelId": 1,
+            "note": null
+        },
+        {
+            "id": 22,
+            "name": "系统参数",
+            "company_id": null,
+            "partCategoryId": "33",
+            "modelId": 1,
+            "note": null
+        }
+    ]
+}
